@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /manage
+Disallow: /counter
+Disallow: /owner
+Disallow: /kitchen
+Sitemap: https://the-heaven-cafe.clientscaleiq.chatgpt.site/sitemap.xml
