@@ -1,0 +1,21 @@
+import {DatabaseSync} from 'node:sqlite';
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+import {OFFICIAL_CONTACT,CONTACT_VERSION,applyContactDetails,orderWhatsAppURL,WHATSAPP_URL,DEFAULT_MESSAGE,mapEmbedURL,phoneURL} from '../lib/contact-details.js';
+const sql=new DatabaseSync(':memory:');sql.exec(readFileSync('drizzle/0000_sleepy_korath.sql','utf8').replaceAll('--> statement-breakpoint',''));
+class Stmt{constructor(s,args=[]){this.s=s;this.args=args}bind(...a){return new Stmt(this.s,a)}async first(){return sql.prepare(this.s).get(...this.args)||null}}
+const db={prepare:s=>new Stmt(s),async batch(statements){sql.exec('BEGIN');try{for(const s of statements)sql.prepare(s.s).run(...s.args);sql.exec('COMMIT')}catch(e){sql.exec('ROLLBACK');throw e}}};
+const original={phone:'old',whatsapp:'917219487686',ordering:false,online:false,deliveryFee:20,gallery:[{url:'/api/media/owner',caption:'Original photo'}],tables:['A1'],coupons:[{code:'OWNER',percent:10}],logo:'/api/media/logo'};
+sql.prepare('INSERT INTO settings(id,data) VALUES(?,?)').run('main',JSON.stringify(original));
+await Promise.all([applyContactDetails(db),applyContactDetails(db)]);
+let c=JSON.parse(sql.prepare('SELECT data FROM settings WHERE id=?').get('main').data);
+for(const [key,value] of Object.entries(OFFICIAL_CONTACT))assert.equal(c[key],value);
+for(const key of ['ordering','online','deliveryFee','gallery','tables','coupons','logo'])assert.deepEqual(c[key],original[key]);
+assert.equal(sql.prepare('SELECT COUNT(*) AS n FROM settings WHERE id=?').get(CONTACT_VERSION).n,1);
+c.address='Owner revised address';sql.prepare('UPDATE settings SET data=? WHERE id=?').run(JSON.stringify(c),'main');await applyContactDetails(db);assert.equal(JSON.parse(sql.prepare('SELECT data FROM settings WHERE id=?').get('main').data).address,c.address);
+const link=new URL(WHATSAPP_URL);assert.equal(link.pathname,'/918767846783');assert.equal(link.searchParams.get('text'),DEFAULT_MESSAGE);assert.equal(phoneURL(OFFICIAL_CONTACT.phone),'tel:+917219487686');assert.equal(phoneURL(OFFICIAL_CONTACT.whatsapp),'tel:+918767846783');assert.ok(new URL(mapEmbedURL(OFFICIAL_CONTACT.address)).searchParams.get('q').includes('Shop No. 04, 05, 06 and 07, Kauls Heritage City, Bhabola, Vasai West, Maharashtra 401202, India'));
+assert.throws(()=>orderWhatsAppURL({name:'Unsaved'}),/Save your order/);
+const saved={id:19,code:'HC-1019',token:'private-tracking-token',name:'Synthetic Test',phone:'9000000000',type:'delivery',items:[{name:'Test item',quantity:2,variant:'Large',addons:[{name:'Extra cheese'}],line:20000}],subtotal:20000,total:23000,tax:0,discount:0,deliveryFee:3000,method:'cash',payment:'Unpaid',address:'Synthetic test address',pincode:'401202',landmark:'Synthetic landmark'};
+const orderLink=new URL(orderWhatsAppURL(saved)),message=orderLink.searchParams.get('text');assert.equal(orderLink.pathname,'/918767846783');for(const text of ['HC-1019','Synthetic Test','9000000000','delivery','2 × Test item','Extra cheese','₹230.00','Payment status: Unpaid','Synthetic test address','401202','Synthetic landmark'])assert.ok(message.includes(text),text);assert.ok(!message.includes(saved.token));assert.ok(!message.includes('7219487686'));
+const table=new URL(orderWhatsAppURL({...saved,type:'dinein',table:'A1',address:'',payment:'Paid'})).searchParams.get('text');assert.ok(table.includes('Table number: A1'));assert.ok(table.includes('Payment status: Paid'));assert.ok(!table.includes('Delivery address:'));
+console.log('PASS: official contact migration is atomic, idempotent and preserves ordering/menu assets; call and WhatsApp destinations separated; default and saved-order messages contain required details without tracking credentials.');

@@ -1,0 +1,5276 @@
+{
+  "version": "heaven-menu-2026-11-16-v1",
+  "source": "The_HeavenCafe_Complete_Menu.pdf",
+  "pageCount": 9,
+  "products": [
+    {
+      "id": "hc-menu-e8c0a83536579f6a",
+      "name": "Local Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-e8c0a83536579f6a.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 30
+        },
+        {
+          "name": "Large",
+          "price": 50
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 0,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/tea-in-cup-17473023/",
+      "photoMatch": "Representative traditional Indian milk chai; actual recipe and serving may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-8f68dcbd65a2368e",
+      "name": "GTC Signature Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-8f68dcbd65a2368e.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 1,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/glass-with-beverage-15232473/",
+      "photoMatch": "Representative Indian milk chai for proprietary signature tea; no recipe is inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-31cf362d84ca283b",
+      "name": "Ginger Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-31cf362d84ca283b.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 2,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/masala-chai-with-ginger-on-marble-surface-29650995/",
+      "photoMatch": "Indian milk chai with fresh ginger; representative ginger tea.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-6fee8acb7f591771",
+      "name": "Kadak Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-6fee8acb7f591771.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 3,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/steaming-glass-of-indian-masala-chai-on-table-36326292/",
+      "photoMatch": "Representative strong-looking Indian milk chai.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-4a21fe8371fe0476",
+      "name": "Burj Khalifa",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-4a21fe8371fe0476.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 4,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chai-latte-with-cinnamon-on-rustic-table-35024895/",
+      "photoMatch": "Representative warm milk tea for proprietary name; exact ingredients are not inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a84077c527e9d48e",
+      "name": "Paan Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-a84077c527e9d48e.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 5,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/foamy-milk-tea-in-ceramic-cup-on-table-29565230/",
+      "photoMatch": "Representative warm milk tea; the exact paan recipe and garnish are not inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3b62a7cb50a7f217",
+      "name": "Bombay Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-3b62a7cb50a7f217.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 6,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/glass-of-masala-tea-with-biscuits-on-a-table-16942969/",
+      "photoMatch": "Representative Indian chai glass, not an exact cafe serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-4d5b270df19a7efe",
+      "name": "Chocolate Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-4d5b270df19a7efe.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 7,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chocolate-drink-in-a-cup-8274748/",
+      "photoMatch": "Close visual representation of a chocolate-coloured warm milk beverage; not the cafe recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-70ea794571bc51ef",
+      "name": "Rajwada Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-70ea794571bc51ef.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 8,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/warm-spiced-chai-latte-with-cinnamon-stick-37146476/",
+      "photoMatch": "Representative warm spiced milk tea; proprietary Rajwada recipe not inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3f54cc05603ac3cc",
+      "name": "Elaichi Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-3f54cc05603ac3cc.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 9,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/tea-and-ginger-roots-20270270/",
+      "photoMatch": "Representative milk chai with cardamom visible; not a claim of exact ingredients.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d70111d441599677",
+      "name": "Kesar Elaichi Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-d70111d441599677.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 10,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/white-cup-with-brown-liquid-11833310/",
+      "photoMatch": "Representative warm spiced milk tea; actual saffron-cardamom preparation may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c0a99259236fe2e3",
+      "name": "Gur Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-c0a99259236fe2e3.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 11,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-masala-chai-tea-15023065/",
+      "photoMatch": "Representative brown warm milk chai; sweetener cannot be established visually.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-39339a8448a6ad0f",
+      "name": "Rose Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-39339a8448a6ad0f.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 12,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-tea-with-leaves-and-petals-in-cup-8329861/",
+      "photoMatch": "Creamy tea garnished with rose petals, representative rose tea.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-05a20cab381af726",
+      "name": "Strawberry Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-05a20cab381af726.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 13,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-close-up-shot-of-a-strawberry-milk-drink-8284685/",
+      "photoMatch": "Close visual representation of strawberry-flavoured milk beverage, not an exact tea recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-123b9fee335f0e1e",
+      "name": "Masala Tea",
+      "category": "Milk Based Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-123b9fee335f0e1e.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Small",
+          "price": 45
+        },
+        {
+          "name": "Large",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 14,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/masala-tea-with-spices-on-table-5946612/",
+      "photoMatch": "Milk masala chai photographed with spices.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c54baa319b71f69c",
+      "name": "Green Tea",
+      "category": "Non Milk Base Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-c54baa319b71f69c.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 50
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 15,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/glass-of-green-tea-on-wooden-table-outdoors-34452072/",
+      "photoMatch": "Brewed green tea in a clear cup.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a77864059fb06b9f",
+      "name": "Ginger Honey Tea",
+      "category": "Non Milk Base Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-a77864059fb06b9f.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 60
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 16,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/ginger-honey-tea-in-a-glass-cup-34928359/",
+      "photoMatch": "Ginger honey tea with ginger and honey dipper.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-2e8c4f98167e5e21",
+      "name": "Black Tea (Lemon)",
+      "category": "Non Milk Base Tea",
+      "description": "",
+      "image": "/images/items/hc-menu-2e8c4f98167e5e21.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 49
+        }
+      ],
+      "addons": [],
+      "sourcePage": 2,
+      "sortOrder": 17,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-cup-of-tea-surrounded-by-teaspoons-6483231/",
+      "photoMatch": "Black tea with lemon in a clear cup.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3097c7eb360f4228",
+      "name": "Butter Stuffed Garlic Bread",
+      "category": "Stuffed Garlic Bread",
+      "description": "",
+      "image": "/images/items/hc-menu-3097c7eb360f4228.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 170
+        }
+      ],
+      "addons": [],
+      "sourcePage": 3,
+      "sortOrder": 18,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/bread-on-a-barbecue-20150374/",
+      "photoMatch": "Representative garlic bread with cheese dip; exact cafe stuffing is not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-20f2358a6873c9c0",
+      "name": "Jalapeno and Corn",
+      "category": "Stuffed Garlic Bread",
+      "description": "",
+      "image": "/images/items/hc-menu-20f2358a6873c9c0.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 185
+        }
+      ],
+      "addons": [],
+      "sourcePage": 3,
+      "sortOrder": 19,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/freshly-baked-cheese-breads-6170675/",
+      "photoMatch": "Representative herb-garnished cheese stuffed bread; exact corn/jalapeno filling is not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-fd106fc6bda7dbc5",
+      "name": "Chicken Stuffed Garlic Bread",
+      "category": "Stuffed Garlic Bread",
+      "description": "",
+      "image": "/images/items/hc-menu-fd106fc6bda7dbc5.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 195
+        }
+      ],
+      "addons": [],
+      "sourcePage": 3,
+      "sortOrder": 20,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/cream-cheese-garlic-bread-on-a-plate-27126839/",
+      "photoMatch": "Representative stuffed garlic bread exterior; chicken filling is not visible or asserted by the stock image.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-6b0aa48ff0473d07",
+      "name": "BBQ Chicken Stuffed Garlic",
+      "category": "Stuffed Garlic Bread",
+      "description": "",
+      "image": "/images/items/hc-menu-6b0aa48ff0473d07.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 220
+        }
+      ],
+      "addons": [],
+      "sourcePage": 3,
+      "sortOrder": 21,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/bread-slices-with-melted-cheese-7159284/",
+      "photoMatch": "Representative melted-cheese garlic bread exterior; BBQ chicken filling is not visible in the stock photo.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a4db368379859531",
+      "name": "Aloo Tikki Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-a4db368379859531.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 99
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 22,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki_Burger.jpg",
+      "photoMatch": "Exact dish type in source photograph; cafe seasoning/presentation may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-28ffb3dadc4ae627",
+      "name": "Spicy Veg Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-28ffb3dadc4ae627.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 120
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 23,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-a-burger-12336023/",
+      "photoMatch": "Vegan patty burger with vegetables; representative of spicy vegetarian burger presentation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c0ee61fb4f66156c",
+      "name": "Crispy Veg Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-c0ee61fb4f66156c.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 159
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 24,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/burger-with-vegetables-20722041/",
+      "photoMatch": "Plant-based vegetable burger with greens; representative crispy vegetarian burger.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-0253e22c9b6a82f6",
+      "name": "Tandoori Paneer Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-0253e22c9b6a82f6.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 179
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 25,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://commons.wikimedia.org/wiki/File:Paneer_Burger.jpg",
+      "photoMatch": "Exact dish type in source photograph; cafe seasoning/presentation may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-625dd4a351b5ace1",
+      "name": "Grilled Chicken Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-625dd4a351b5ace1.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 190
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 26,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-a-tasty-chicken-burger-and-fries-33414951/",
+      "photoMatch": "Representative chicken burger serving; exact cafe seasoning is not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-4e9b6309e6c6e246",
+      "name": "Spicy Chicken Burger",
+      "category": "Burger",
+      "description": "",
+      "image": "/images/items/hc-menu-4e9b6309e6c6e246.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 170
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice / Peri Peri",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 27,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/lunch-kitchen-fast-food-french-fries-11001165/",
+      "photoMatch": "Crispy chicken burger with fresh vegetables; representative spicy chicken burger.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3c6d7828dd4f5d19",
+      "name": "Veg Grilled Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-3c6d7828dd4f5d19.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 150
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 28,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-vegetable-sandwich-on-plate-37853683/",
+      "photoMatch": "Grilled vegetable sandwich presentation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-25fd27cbff8daa14",
+      "name": "Tandoori Paneer Grilled Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-25fd27cbff8daa14.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 179
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 29,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://commons.wikimedia.org/wiki/File:Paneer_Toast_Sandwich.JPG",
+      "photoMatch": "Representative paneer toast sandwich photograph; exact tandoori seasoning is not visually verifiable.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f54d7bcdcef4d265",
+      "name": "Spicy Veg Grilled Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-f54d7bcdcef4d265.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 30,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-vegetable-sandwich-on-wooden-tray-29699515/",
+      "photoMatch": "Grilled vegetarian sandwich; representative spicy preparation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-67dbf047afbed00f",
+      "name": "Chicken Grilled Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-67dbf047afbed00f.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 31,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/toasted-bread-and-sliced-grilled-chicken-with-mayonnaise-5337811/",
+      "photoMatch": "Toasted grilled chicken sandwich on bread.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-49c9254eb92090ba",
+      "name": "Cheese Corn Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-49c9254eb92090ba.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 179
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 32,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/grilled-sandwiches-with-latte-art-coffee-34452166/",
+      "photoMatch": "Grilled corn sandwich served with coffee; representative cheese-corn sandwich.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-da6e108075ab216f",
+      "name": "Masala Cheese Toast Sand.",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-da6e108075ab216f.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 165
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 33,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-cheese-sandwich-on-plate-30346820/",
+      "photoMatch": "Grilled cheese toast; representative masala-cheese presentation without asserting spice blend.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-12bdc6bea8f1edc3",
+      "name": "Spicy Chicken Grilled Sandwich",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-12bdc6bea8f1edc3.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 34,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-chicken-sandwich-on-a-plate-40690546/",
+      "photoMatch": "Grilled chicken sandwich; representative spicy version.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f2e61d585663aaeb",
+      "name": "Makhni Chi. or Paneer",
+      "category": "Grilled Sandwich",
+      "description": "",
+      "image": "/images/items/hc-menu-f2e61d585663aaeb.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Chicken",
+          "price": 299
+        },
+        {
+          "name": "Paneer",
+          "price": 299
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Cheese Slice",
+          "price": 40
+        }
+      ],
+      "sourcePage": 3,
+      "sortOrder": 35,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "variantLabel": "Choose your preparation",
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-vegetable-sandwich-on-plate-36268509/",
+      "photoMatch": "Representative grilled vegetarian sandwich exterior for the paneer option; makhni sauce and chicken option not shown.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d1b52e5c2dd14945",
+      "name": "Butter Bun (Grilled Option)",
+      "category": "Bun Maska",
+      "description": "",
+      "image": "/images/items/hc-menu-d1b52e5c2dd14945.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 35
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 36,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/person-holding-butter-bun-on-urban-street-36924467/",
+      "photoMatch": "Butter bun photographed in a hand; grilled option is not represented.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-52e56e1efab69eb2",
+      "name": "Masala Bun",
+      "category": "Bun Maska",
+      "description": "",
+      "image": "/images/items/hc-menu-52e56e1efab69eb2.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 40
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 37,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-bread-buns-16497932/",
+      "photoMatch": "Representative savory herb-stuffed bread bun; exact masala is not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-bd7f6116cd260fd2",
+      "name": "Chocolate Bun",
+      "category": "Bun Maska",
+      "description": "",
+      "image": "/images/items/hc-menu-bd7f6116cd260fd2.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 49
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 38,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/cooking-ingredients-and-utensils-on-table-next-to-buns-12904143/",
+      "photoMatch": "Chocolate-chip bread buns in a rustic setting; representative chocolate bun.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-644c36a26fa22ac5",
+      "name": "Jam Bun",
+      "category": "Bun Maska",
+      "description": "",
+      "image": "/images/items/hc-menu-644c36a26fa22ac5.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 49
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 39,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pastries-with-jam-on-white-plates-10267334/",
+      "photoMatch": "Representative jam-filled/topped bread pastry, not claimed as exact cafe bun.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d0f82dd97bf9992c",
+      "name": "Croutons",
+      "category": "Bun Maska",
+      "description": "",
+      "image": "/images/items/hc-menu-d0f82dd97bf9992c.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 40,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://commons.wikimedia.org/wiki/File:Croutons.jpg",
+      "photoMatch": "Exact croutons, bread cubes, in source photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-41afc972b0bb4bef",
+      "name": "Classic Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-41afc972b0bb4bef.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 150
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 41,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-glass-of-mojito-7259042/",
+      "photoMatch": "Classic lime and mint mojito in a glass; representative stock photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d6a29ee09b19cbea",
+      "name": "Peach Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-d6a29ee09b19cbea.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 42,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/peach-juice-with-ice-17525264/",
+      "photoMatch": "Peach drink over ice with mint; close visual representation of the peach flavour, not the cafe recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d202d9f60106eff7",
+      "name": "Green Apple Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-d202d9f60106eff7.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 209
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 43,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-green-apple-mocktail-with-ice-cubes-33635827/",
+      "photoMatch": "Green apple mocktail with ice and apple garnish; close visual representation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-48a9b1b531b06ff8",
+      "name": "Strawberry Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-48a9b1b531b06ff8.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 219
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 44,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-strawberry-mojito-with-lime-and-mint-30412118/",
+      "photoMatch": "Strawberry mojito mocktail with lime and mint; representative stock photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-7cfda9fcb9287b5d",
+      "name": "Kiwi Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-7cfda9fcb9287b5d.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 219
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 45,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/cocktail-in-a-glass-with-kiwi-fruit-8679181/",
+      "photoMatch": "Kiwi sparkling drink with ice; representative of the kiwi flavour, not the cafe recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-45efe473e782ace1",
+      "name": "Orange Mojito",
+      "category": "Mojito",
+      "description": "",
+      "image": "/images/items/hc-menu-45efe473e782ace1.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 46,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/orange-cocktail-served-in-a-restaurant-24604592/",
+      "photoMatch": "Orange drink with mint garnish and straw; close visual representation of orange mojito.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-984357bb87cb944e",
+      "name": "Lime Lemonade",
+      "category": "Lemonade",
+      "description": "",
+      "image": "/images/items/hc-menu-984357bb87cb944e.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 47,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-lemonade-with-lime-in-a-mason-jar-30490191/",
+      "photoMatch": "Lime lemonade with ice in a mason jar; representative stock photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-77c8e91223ea4d4c",
+      "name": "Peach Lemonade",
+      "category": "Lemonade",
+      "description": "",
+      "image": "/images/items/hc-menu-77c8e91223ea4d4c.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 48,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/peach-juice-in-glasses-17525263/",
+      "photoMatch": "Peach drink with mint and ice; close visual representation of peach lemonade, not the cafe recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-36cd1da046cb7e8a",
+      "name": "Green Apple Lemonade",
+      "category": "Lemonade",
+      "description": "",
+      "image": "/images/items/hc-menu-36cd1da046cb7e8a.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 49,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-cold-apple-drink-in-glass-5817625/",
+      "photoMatch": "Chilled green apple drink with apple garnish; close visual representation of apple lemonade, not the cafe recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-6d6bd53372871623",
+      "name": "Orange Lemonade",
+      "category": "Lemonade",
+      "description": "",
+      "image": "/images/items/hc-menu-6d6bd53372871623.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 50,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/clear-drinking-glass-with-orange-juice-and-lemon-slice-8679533/",
+      "photoMatch": "Sparkling citrus lemonade with lemon slice; representative stock photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-027e2b161fafeb6c",
+      "name": "Non Alcoholic Beer",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-027e2b161fafeb6c.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 51,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/clear-drinking-glass-with-beer-7016593/",
+      "photoMatch": "Representative service style only: an unbranded golden malt-drink glass; not a photograph verifying the cafe alcohol-free formulation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c73487596890d4df",
+      "name": "Non Alcoholic Vodka",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-c73487596890d4df.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 52,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/round-clear-glass-with-straw-closeup-photography-1170598/",
+      "photoMatch": "Representative service style only: an unbranded clear iced drink in a glass; source cocktail styling does not establish the cafe alcohol-free formulation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-9f50b85d44c725f0",
+      "name": "Non Alcoholic Whisky",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-9f50b85d44c725f0.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 53,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-an-alcoholic-drink-with-ice-9267914/",
+      "photoMatch": "Representative service style only: unbranded amber drink with ice; source photograph is whisky styling, not the cafe alcohol-free formulation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-ef97a473feb8aa42",
+      "name": "Non Alcoholic Jack Daniels",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-ef97a473feb8aa42.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 54,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/elegant-glass-of-whiskey-on-wooden-surface-28559493/",
+      "photoMatch": "Representative service style only: unbranded amber drink glass, with no brand bottle; source is whiskey styling, not the cafe alcohol-free recipe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-6855c4003867874d",
+      "name": "Non Alcoholic Red Wine",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-6855c4003867874d.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 55,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/red-wine-in-glass-on-table-14978299/",
+      "photoMatch": "Representative service style only: unbranded red drink in wine glass; source is wine styling, not the cafe alcohol-free formulation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-1f99973724eff585",
+      "name": "Non Alcoholic LIIT",
+      "category": "Non Alcoholic",
+      "description": "",
+      "image": "/images/items/hc-menu-1f99973724eff585.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 4,
+      "sortOrder": 56,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-long-island-iced-tea-13573779/",
+      "photoMatch": "Representative service style only: tall iced tea-style drink with lemon; source LIIT styling does not establish the cafe alcohol-free formulation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-943648635a5db85b",
+      "name": "Strawberry Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-943648635a5db85b.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 190
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 57,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-strawberry-shake-on-clear-drinking-glass-10066812/",
+      "photoMatch": "Strawberry milkshake photographed with fruit and whipped cream; presentation may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d0834106dc8c1d50",
+      "name": "Banana Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-d0834106dc8c1d50.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 120
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 58,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/creeamy-banana-milkshake-20205955/",
+      "photoMatch": "Representative creamy banana milkshake.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3073049e8835a840",
+      "name": "Vanilla Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-3073049e8835a840.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 110
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 59,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-vanilla-milkshake-on-wooden-table-28525197/",
+      "photoMatch": "Vanilla milkshake served in a glass.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-1570553f50d22653",
+      "name": "Mango Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-1570553f50d22653.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 170
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 60,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-mango-milkshake-with-bokeh-lights-32503389/",
+      "photoMatch": "Mango milkshake in a clear glass.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-03047318f6885a34",
+      "name": "Butterscotch Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-03047318f6885a34.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 180
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 61,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/food-cold-restaurant-coffee-7091585/",
+      "photoMatch": "Close representation of a caramel/butterscotch-coloured milkshake; exact cafe toppings may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-cc9ce434114befad",
+      "name": "Brownie Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-cc9ce434114befad.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 190
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 62,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-chocolate-shake-in-artistic-glass-34541593/",
+      "photoMatch": "Representative creamy chocolate milkshake for brownie flavour; exact brownie garnish is not claimed.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f0e1a1982155d946",
+      "name": "Choco Oreo Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-f0e1a1982155d946.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 165
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 63,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-a-chocolate-frappe-7091582/",
+      "photoMatch": "Chocolate milkshake with Oreo cookie and whipped cream.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-43a4e4c0783be823",
+      "name": "Dubai Shake",
+      "category": "Shake",
+      "description": "",
+      "image": "/images/items/hc-menu-43a4e4c0783be823.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 180
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 64,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pistachio-milkshake-served-in-a-restaurant-12419191/",
+      "photoMatch": "Representative premium milkshake photographed in Dubai; the proprietary cafe recipe is not inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f85c31fcb10ae4d7",
+      "name": "Pink Detox",
+      "category": "Heaven's Detox",
+      "description": "",
+      "image": "/images/items/hc-menu-f85c31fcb10ae4d7.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 259
+        }
+      ],
+      "addons": [],
+      "sourcePage": 5,
+      "sortOrder": 65,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/detox-juice-in-a-drinking-glass-4552049/",
+      "photoMatch": "Representative pink-red cold-pressed style juice, not a claim of the cafe ingredients.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-721c0405efadcc4e",
+      "name": "Purple",
+      "category": "Heaven's Detox",
+      "description": "",
+      "image": "/images/items/hc-menu-721c0405efadcc4e.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 239
+        }
+      ],
+      "addons": [],
+      "sourcePage": 5,
+      "sortOrder": 66,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-purple-colored-drink-with-ice-cubes-in-a-glass-12987518/",
+      "photoMatch": "Representative iced purple non-alcoholic beverage; actual recipe may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a64f08503d7b1d7a",
+      "name": "Green Detox",
+      "category": "Heaven's Detox",
+      "description": "",
+      "image": "/images/items/hc-menu-a64f08503d7b1d7a.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 5,
+      "sortOrder": 67,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/detox-juice-on-glass-cup-8755965/",
+      "photoMatch": "Representative fresh green juice, not a claim of the cafe ingredients.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-7bc0cea77048d44f",
+      "name": "Pink Cooler",
+      "category": "Heaven's Detox",
+      "description": "",
+      "image": "/images/items/hc-menu-7bc0cea77048d44f.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 5,
+      "sortOrder": 68,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-pink-iced-drink-on-rustic-table-40987132/",
+      "photoMatch": "Representative pink iced refreshment; exact recipe not inferred.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-866b3d91559f1617",
+      "name": "Classic Cold Coffee",
+      "category": "Cold Coffee",
+      "description": "",
+      "image": "/images/items/hc-menu-866b3d91559f1617.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 159
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 69,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/cold-coffee-drink-in-clear-drinking-glass-4869289/",
+      "photoMatch": "Creamy iced coffee in a clear glass.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-1454cf4fbcaec1e9",
+      "name": "Choco Strong Coffee",
+      "category": "Cold Coffee",
+      "description": "",
+      "image": "/images/items/hc-menu-1454cf4fbcaec1e9.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 239
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 70,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/clear-drinking-glass-with-iced-coffee-8444426/",
+      "photoMatch": "Iced coffee with chocolate syrup and coffee beans.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d44692f1627e3111",
+      "name": "Hazelnut Cold Coffee",
+      "category": "Cold Coffee",
+      "description": "",
+      "image": "/images/items/hc-menu-d44692f1627e3111.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 270
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 71,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-iced-coffee-on-minimalist-background-32972502/",
+      "photoMatch": "Representative iced milk coffee; hazelnut flavour cannot be established visually.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3ac9813b3cae4abf",
+      "name": "Caramel Cold Coffee",
+      "category": "Cold Coffee",
+      "description": "",
+      "image": "/images/items/hc-menu-3ac9813b3cae4abf.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 72,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-a-glass-with-iced-caramel-coffee-15086189/",
+      "photoMatch": "Iced coffee topped with caramel and cream.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-21904938622f5258",
+      "name": "Irish Cold Coffee",
+      "category": "Cold Coffee",
+      "description": "",
+      "image": "/images/items/hc-menu-21904938622f5258.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Ice Cream",
+          "price": 40
+        }
+      ],
+      "sourcePage": 5,
+      "sortOrder": 73,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/refreshing-iced-coffee-with-creamy-foam-28901484/",
+      "photoMatch": "Representative cold coffee with creamy foam; no alcohol or exact Irish flavour recipe is implied.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-150dd31b5c964881",
+      "name": "Veg Wrap (Noodle)",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-150dd31b5c964881.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 120
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 74,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/hands-holding-vegetable-wrap-4955265/",
+      "photoMatch": "Vegetarian wrap; noodle filling not visible and not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-0f3d190c5ea54de3",
+      "name": "Tandoori Paneer Wrap",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-0f3d190c5ea54de3.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 75,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/grilled-paneer-rolls-on-rustic-wooden-platter-29173093/",
+      "photoMatch": "Grilled paneer rolls; representative tandoori paneer wrap.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-173397c722d14713",
+      "name": "Spicy Veg Wrap",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-173397c722d14713.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 130
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 76,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/healthy-vegetable-wrap-on-white-plate-30392937/",
+      "photoMatch": "Vegetarian wrap; representative spicy vegetable preparation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b2ce2ce7afbbaf86",
+      "name": "Grilled Chicken Wrap",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-b2ce2ce7afbbaf86.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 159
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 77,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/grilled-chicken-wrap-with-vegetables-plate-28442524/",
+      "photoMatch": "Grilled chicken wrap with fresh vegetables.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b57d1f1abc441f2a",
+      "name": "Tandoori Chicken Wrap",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-b57d1f1abc441f2a.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 170
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 78,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-kebab-with-meat-lettuce-tomato-red-onion-and-sauce-with-french-fries-and-sauce-17200361/",
+      "photoMatch": "Grilled chicken wrap; representative tandoori preparation, exact spice blend not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3b3f0aa5fbf9995e",
+      "name": "BBQ Chicken Wrap",
+      "category": "Wrap",
+      "description": "",
+      "image": "/images/items/hc-menu-3b3f0aa5fbf9995e.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 180
+        }
+      ],
+      "addons": [],
+      "sourcePage": 6,
+      "sortOrder": 79,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/white-ceramic-round-plate-with-chicken-wrap-sandwich-9624298/",
+      "photoMatch": "Grilled chicken wrap; representative BBQ preparation, sauce recipe not asserted.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a993dc1c21a10f29",
+      "name": "Red Sauce Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-a993dc1c21a10f29.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 259
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 80,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pasta-with-red-sauce-and-cheese-in-overhead-view-5419336/",
+      "photoMatch": "Tomato-sauce penne with cheese; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-6a4ff94994526362",
+      "name": "White Sauce Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-6a4ff94994526362.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 279
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 81,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-photography-of-pasta-with-white-sauce-2703468/",
+      "photoMatch": "Creamy white-sauce pasta; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a270dbb88c6cbae0",
+      "name": "Mushroom Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-a270dbb88c6cbae0.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 269
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 82,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pasta-with-mushrooms-on-wooden-table-6213750/",
+      "photoMatch": "Creamy mushroom pasta; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-ce4807ced05e17f6",
+      "name": "Pesto Souse Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-ce4807ced05e17f6.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 289
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 83,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-pesto-fusilli-pasta-close-up-38773986/",
+      "photoMatch": "Green pesto fusilli pasta; representative pesto serving.",
+      "photoPosition": "35% 60%"
+    },
+    {
+      "id": "hc-menu-ede31ccd35dbf6ff",
+      "name": "Mac. & Cheese Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-ede31ccd35dbf6ff.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 289
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 84,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-cheesy-macaroni-dish-5060461/",
+      "photoMatch": "Cheesy macaroni; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-dbdb178690184dc6",
+      "name": "Mix Sauce Pasta",
+      "category": "Pasta",
+      "description": "",
+      "image": "/images/items/hc-menu-dbdb178690184dc6.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 279
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 50
+        }
+      ],
+      "sourcePage": 6,
+      "sortOrder": 85,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/penne-pasta-in-pink-sauce-sprinkled-with-chopped-parsley-and-toast-16525900/",
+      "photoMatch": "Penne in pink tomato-cream sauce; representative mixed-sauce appearance.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-127421067605df47",
+      "name": "Single Topping Pizza",
+      "category": "Veg Pizza",
+      "description": "Choose any topping: corn, capsicum, mushroom, paneer, tomato, jalapeno, paprika, onion",
+      "image": "/images/items/hc-menu-127421067605df47.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Corn",
+          "price": 210
+        },
+        {
+          "name": "Capsicum",
+          "price": 210
+        },
+        {
+          "name": "Mushroom",
+          "price": 210
+        },
+        {
+          "name": "Paneer",
+          "price": 210
+        },
+        {
+          "name": "Tomato",
+          "price": 210
+        },
+        {
+          "name": "Jalapeno",
+          "price": 210
+        },
+        {
+          "name": "Paprika",
+          "price": 210
+        },
+        {
+          "name": "Onion",
+          "price": 210
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 86,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "variantLabel": "Choose your topping",
+      "photoSource": "https://www.pexels.com/photo/delicious-mushroom-pizza-slice-being-served-36375383/",
+      "photoMatch": "Mushroom pizza represents one of the listed single-topping options; other selected toppings differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d4e6b0b95b5471cf",
+      "name": "Classic Margherita Pizza",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-d4e6b0b95b5471cf.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 87,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-margherita-pizza-with-basil-leaves-34480202/",
+      "photoMatch": "Classic margherita with mozzarella and basil; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b94781df1cea2ac3",
+      "name": "Farm House",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-b94781df1cea2ac3.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 88,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-vegetarian-pizza-on-rustic-table-34413643/",
+      "photoMatch": "Baked vegetarian pizza with mushrooms and olives; representative farmhouse-style serving.",
+      "photoPosition": "50% 72%"
+    },
+    {
+      "id": "hc-menu-f05bd4e675fb1e10",
+      "name": "Tandoori Paneer Pizza",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-f05bd4e675fb1e10.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 279
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 89,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pizza-on-brown-wooden-table-11974635/",
+      "photoMatch": "Paneer tikka pizza; representative tandoori-paneer serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a4fee3d72653589a",
+      "name": "Makhni Pizza (Veg or Non Veg)",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-a4fee3d72653589a.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 309
+        },
+        {
+          "name": "Non Veg",
+          "price": 309
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 90,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "variantLabel": "Choose your preparation",
+      "photoSource": "https://www.pexels.com/photo/pizza-19081126/",
+      "photoMatch": "Paneer pizza represents the vegetarian option; exact makhni sauce and non-vegetarian preparation differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-778575113e74a443",
+      "name": "Chilli Paneer Pizza",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-778575113e74a443.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 91,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pizza-19081127/",
+      "photoMatch": "Paneer pizza; representative chilli-paneer pizza appearance, exact sauce not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-e3c2886b82158ab7",
+      "name": "BBQ Veg Pizza",
+      "category": "Veg Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-e3c2886b82158ab7.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Extra Cheese",
+          "price": 40
+        }
+      ],
+      "sourcePage": 7,
+      "sortOrder": 92,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-freshly-baked-vegetable-pizza-on-wooden-board-34382326/",
+      "photoMatch": "Baked vegetable pizza with mushrooms, peppers and olives; representative BBQ-veg pizza appearance, exact barbecue sauce not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-65f3c4447e1cca98",
+      "name": "Tandoori Chicken Pizza",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-65f3c4447e1cca98.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 93,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/flat-lay-of-a-yummy-pizza-9792460/",
+      "photoMatch": "Tandoori chicken pizza; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-36404d18d4930862",
+      "name": "Smoky Chicken Pizza",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-36404d18d4930862.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 320
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 94,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-barbecue-chicken-pizza-on-wooden-table-33458049/",
+      "photoMatch": "Barbecue chicken pizza represents a smoky chicken style; exact recipe differs.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-051badcdbe65a850",
+      "name": "Peri Peri Chi. Pizza",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-051badcdbe65a850.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 330
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 95,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/spicy-chicken-pizza-with-peppers-and-cheese-35940570/",
+      "photoMatch": "Spicy chicken pizza; representative peri-peri-style appearance, exact seasoning not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-bd1dfe1848cf9f6a",
+      "name": "Chi. Supreme",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-bd1dfe1848cf9f6a.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 349
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 96,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-gourmet-chicken-pizza-with-toppings-33592992/",
+      "photoMatch": "Chicken pizza with vegetables and olives; representative supreme-style serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f04d3a60817e9b44",
+      "name": "Chi. Sausage",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-f04d3a60817e9b44.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 349
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 97,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/sliced-pizza-with-sausages-17907815/",
+      "photoMatch": "Sliced sausage pizza; representative appearance, chicken sausage composition not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-0eb30c0bac4516a8",
+      "name": "Chic. Pepperoni",
+      "category": "Chicken Pizza",
+      "description": "",
+      "image": "/images/items/hc-menu-0eb30c0bac4516a8.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 359
+        }
+      ],
+      "addons": [],
+      "sourcePage": 7,
+      "sortOrder": 98,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-a-pepperoni-pizza-7813574/",
+      "photoMatch": "Pepperoni pizza; representative appearance, chicken pepperoni composition not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c5172b6f6b6b34fc",
+      "name": "Veg Steam Momo",
+      "category": "Momos",
+      "description": "",
+      "image": "/images/items/hc-menu-c5172b6f6b6b34fc.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 99,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-steamed-momos-with-spicy-chutney-33384415/",
+      "photoMatch": "Steamed momos with chutney; representative serving, filling not visible.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-314e5176e52822ac",
+      "name": "Paneer Steam Momo",
+      "category": "Momos",
+      "description": "",
+      "image": "/images/items/hc-menu-314e5176e52822ac.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 170
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 100,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/plate-of-momos-with-spicy-dipping-sauce-36173262/",
+      "photoMatch": "Steamed momos; representative paneer-momo appearance, filling not visible.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-335a2f7d6df86b71",
+      "name": "Chicken Steam Momo",
+      "category": "Momos",
+      "description": "",
+      "image": "/images/items/hc-menu-335a2f7d6df86b71.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 190
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 101,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chicken-momo-served-in-wooden-boxes-7363671/",
+      "photoMatch": "Chicken momos in a bamboo steamer; representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-0c63f07aecc3f685",
+      "name": "Kurkure Coating",
+      "category": "Momos",
+      "description": "",
+      "image": "/images/items/hc-menu-0c63f07aecc3f685.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 102,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "clarification": "Confirm whether ₹199 is a complete dish price or an additional coating charge.",
+      "photoSource": "https://www.pexels.com/photo/crispy-cheese-corn-momos-with-dipping-sauces-28445592/",
+      "photoMatch": "Crispy coated momos; representative coating appearance, exact cafe preparation differs.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-2b65773146623ff4",
+      "name": "Plain Maggi",
+      "category": "Maggi",
+      "description": "",
+      "image": "/images/items/hc-menu-2b65773146623ff4.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 65
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 60
+        }
+      ],
+      "sourcePage": 8,
+      "sortOrder": 103,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-noodles-on-white-surface-4518668/",
+      "photoMatch": "Plain cooked instant noodles; representative serving without branded packaging.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-ac5d0b08f0f3e904",
+      "name": "Veg Maggi",
+      "category": "Maggi",
+      "description": "",
+      "image": "/images/items/hc-menu-ac5d0b08f0f3e904.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 99
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 60
+        }
+      ],
+      "sourcePage": 8,
+      "sortOrder": 104,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-photo-of-noodles-4635600/",
+      "photoMatch": "Indian noodles with vegetables; representative vegetarian noodle serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-da28dce957e322d8",
+      "name": "Tandoori Paneer Maggi",
+      "category": "Maggi",
+      "description": "",
+      "image": "/images/items/hc-menu-da28dce957e322d8.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 60
+        }
+      ],
+      "sourcePage": 8,
+      "sortOrder": 105,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-delicious-instant-noodles-on-black-ceramic-plate-14457500/",
+      "photoMatch": "Cooked instant noodles with vegetables, used as a close representative. The cafe’s exact paneer/tandoori preparation is not verified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-4487a1d8abafab03",
+      "name": "Sezwan Maggi",
+      "category": "Maggi",
+      "description": "",
+      "image": "/images/items/hc-menu-4487a1d8abafab03.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 129
+        }
+      ],
+      "addons": [
+        {
+          "name": "Add Chicken",
+          "price": 60
+        }
+      ],
+      "sourcePage": 8,
+      "sortOrder": 106,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-chinese-noodles-in-elegant-bowl-30676160/",
+      "photoMatch": "Seasoned Chinese-style noodles; representative spicy noodle appearance, exact Maggi preparation differs.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-9fad5536b9415a8a",
+      "name": "Salted French Fries",
+      "category": "French Fries",
+      "description": "",
+      "image": "/images/items/hc-menu-9fad5536b9415a8a.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 107,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-french-fries-with-salt-9502103/",
+      "photoMatch": "Golden salted fries, representative serving photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-cc82143cbd7d7056",
+      "name": "Masala Fries",
+      "category": "French Fries",
+      "description": "",
+      "image": "/images/items/hc-menu-cc82143cbd7d7056.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 108,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/heap-of-delicious-crunchy-fried-potatoes-spilled-on-table-4432703/",
+      "photoMatch": "Seasoned golden fries, representative masala fries.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f4edd0f8d54b69fb",
+      "name": "Peri Peri Fries",
+      "category": "French Fries",
+      "description": "",
+      "image": "/images/items/hc-menu-f4edd0f8d54b69fb.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 109,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-french-fries-11485199/",
+      "photoMatch": "Spicy fries with chilli sauce and herbs, close representative of peri peri fries.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a113cfb055727e1f",
+      "name": "Cheese Loaded",
+      "category": "French Fries",
+      "description": "",
+      "image": "/images/items/hc-menu-a113cfb055727e1f.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 110,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chopped-parsley-on-fries-9574954/",
+      "photoMatch": "Fries topped with cheese and parsley; no meat toppings indicated.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-daa32ded06cc7e38",
+      "name": "Hara Bhara Kabab (6 PCS)",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-daa32ded06cc7e38.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 179
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 111,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://wordpress.org/photos/photo/35567cd42e/",
+      "photoMatch": "Hara Bhara Kabab with chutney, actual matching dish from the CC0 WordPress Photo Directory; exact six-piece portion may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f6d8f20a3d2502cf",
+      "name": "Veg Spring Roll",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-f6d8f20a3d2502cf.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 112,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/fried-rolls-with-vegetables-15801053/",
+      "photoMatch": "Fried vegetable spring rolls, matching the menu item.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-01d8e299c4d9ee10",
+      "name": "Chi. Popcorn",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-01d8e299c4d9ee10.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 113,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/crispy-taiwanese-popcorn-chicken-in-basket-28573376/",
+      "photoMatch": "Crispy bite-sized popcorn chicken, representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-cc783e165f0c4b79",
+      "name": "Potato Shots",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-cc783e165f0c4b79.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 149
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 114,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-golden-crispy-potato-balls-30648979/",
+      "photoMatch": "Golden potato balls, faithful representative of potato shots.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d3a1621587fb24b9",
+      "name": "Chic. Kabab (Cheese 6 pcs)",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-d3a1621587fb24b9.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 115,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-a-chicken-kebab-dish-7474082/",
+      "photoMatch": "Plated chicken kebab; cheese filling and exact portion are not depicted, representative only.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-9601ee910d7ed251",
+      "name": "Potato Cheese Ball",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-9601ee910d7ed251.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 179
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 116,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/potatoes-balls-and-bowl-of-sauce-20807880/",
+      "photoMatch": "Fried potato balls with dip; cheese filling is not visible, representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-3fdb35d71a722ac6",
+      "name": "Corn Cheese Ball (6 balls)",
+      "category": "Quick Bites",
+      "description": "",
+      "image": "/images/items/hc-menu-3fdb35d71a722ac6.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 117,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-crispy-cheese-balls-on-a-platter-34692571/",
+      "photoMatch": "Crispy cheese balls; corn filling and exact six-ball portion not visible, representative serving.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-69e7136c8385bb91",
+      "name": "Sandwich + Fries + Soft Drink",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-69e7136c8385bb91.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 210
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 118,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/french-fries-and-clear-glass-cup-on-top-of-table-943260/",
+      "photoMatch": "Sandwich with fries and Coca-Cola, matching combo components; stock presentation differs from the cafe.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c17b2f61da7a78d5",
+      "name": "Any Burger + Fries + Soft Drink",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-c17b2f61da7a78d5.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 119,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-a-burger-french-fries-and-a-drink-19247564/",
+      "photoMatch": "Burger, fries and a drink; pictured onion rings are styling and not part of this combo.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-9fe2c8a2f2a3bbe2",
+      "name": "Any Small Pizza + Garlic Bread + Soft Drink",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-9fe2c8a2f2a3bbe2.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 289
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 120,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-italian-pizza-with-refreshing-citrus-drink-38902109/",
+      "photoMatch": "Pizza, toasted breadstick side and a citrus drink shown together. Stock pizza is meat-topped; exact toppings, recipe and small-cafe portion are not claimed.",
+      "photoPosition": "center 70%"
+    },
+    {
+      "id": "hc-menu-1d018ce761d695f8",
+      "name": "Momo + Fries + Mojito / Soft Drink",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-1d018ce761d695f8.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 121,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/tasty-dumplings-on-plate-with-refreshing-drink-35372390/",
+      "photoMatch": "Two-panel representative photography shows momos and a drink beside the fries side. Actual cafe preparation, drink selection and portions may vary.",
+      "photoPosition": "50% 50%",
+      "photoSupplement": {
+        "id": "hc-menu-1d018ce761d695f8-fries",
+        "name": "French fries side for Momo combo",
+        "category": "Combos",
+        "source_url": "https://www.pexels.com/photo/close-up-of-crispy-golden-french-fries-on-a-plate-39799185/",
+        "image_url": "https://images.pexels.com/photos/39799185/pexels-photo-39799185.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "license": "Pexels License",
+        "license_url": "https://www.pexels.com/license/",
+        "match_note": "Separate representative photograph of the fries included in the momo, fries and drink combination. Displayed beside the main momo-and-drink photograph.",
+        "image": "/images/items/hc-menu-1d018ce761d695f8-fries.webp",
+        "width": 1600,
+        "height": 1067,
+        "source_width": 1600,
+        "source_height": 1067,
+        "sha256": "1052741ee10631b075a54608e60e8367fb7bf2ad6e4b2ebb6231a2f5a649dada",
+        "bytes": 162438
+      }
+    },
+    {
+      "id": "hc-menu-93e4ee3fa960211a",
+      "name": "Pasta + Garlic Bread + Iced Tea / Soft Drink",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-93e4ee3fa960211a.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 122,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-person-preparing-a-meal-19158690/",
+      "photoMatch": "Full combination shown: creamy pasta, toasted garlic bread and iced tea with lemon. Stock presentation and pasta choice differ from the cafe.",
+      "photoPosition": "center 68%"
+    },
+    {
+      "id": "hc-menu-c2e82d8976490fb7",
+      "name": "Wrap + Fries + Iced Tea / Soft Drink / Cold Coffee",
+      "category": "Combos",
+      "description": "",
+      "image": "/images/items/hc-menu-c2e82d8976490fb7.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 123,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-chicken-wrap-with-fries-and-soda-29306507/",
+      "photoMatch": "Wrap, fries and soda, matching the combination; actual wrap choice may vary.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-35b98556d0da37f1",
+      "name": "Dip",
+      "category": "Extra Add Ons",
+      "description": "",
+      "image": "/images/items/hc-menu-35b98556d0da37f1.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 40
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 124,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-close-up-shot-of-a-delicious-dip-6419571/",
+      "photoMatch": "Representative dip presentation; cafe dip flavour has not been specified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-0a0831a3df1102b5",
+      "name": "Vegetable",
+      "category": "Extra Add Ons",
+      "description": "",
+      "image": "/images/items/hc-menu-0a0831a3df1102b5.webp",
+      "diet": "veg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 40
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 125,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chopped-vegetables-in-a-bowl-22624357/",
+      "photoMatch": "Representative mixed cucumber, tomato and pepper vegetables; exact cafe vegetable add-on mix has not been specified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c84ca20be83af469",
+      "name": "Water Bottle",
+      "category": "Extra Add Ons",
+      "description": "",
+      "image": "/images/items/hc-menu-c84ca20be83af469.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 126,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-person-holding-a-water-bottle-with-a-blank-label-8217497/",
+      "photoMatch": "Unbranded clear water bottle; representative bottle photograph, not a promise of a specific water brand.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-c269944e0597ee27",
+      "name": "Soft Drink",
+      "category": "Extra Add Ons",
+      "description": "",
+      "image": "/images/items/hc-menu-c269944e0597ee27.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 127,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-a-soft-drink-with-ice-cubes-8879621/",
+      "photoMatch": "Unbranded fizzy cola over ice; representative soft drink photograph.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-e23fe7677eb945a0",
+      "name": "Energy Drink",
+      "category": "Extra Add Ons",
+      "description": "",
+      "image": "/images/items/hc-menu-e23fe7677eb945a0.webp",
+      "diet": "unspecified",
+      "available": false,
+      "pricePending": true,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": null
+        }
+      ],
+      "addons": [],
+      "sourcePage": 8,
+      "sortOrder": 128,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/white-can-in-close-up-photography-9462354/",
+      "photoMatch": "Unbranded white aluminum beverage can; representative energy-drink packaging because the cafe brand is not specified.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-079feac172828bc6",
+      "name": "Quesadilla (Mexican Dish)",
+      "category": "Heaven's Special Dish",
+      "description": "red hot souce, paneer, chicken, veg.",
+      "image": "/images/items/hc-menu-079feac172828bc6.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 349
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 129,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-photo-of-quesadilla-5840082/",
+      "photoMatch": "Plated quesadilla with sauces, matching the menu dish.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d636e3fa6aaa1b87",
+      "name": "Chicken Balls",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-d636e3fa6aaa1b87.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 130,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-plate-with-meatballs-and-sauce-on-it-14883824/",
+      "photoMatch": "Crispy chicken balls and dipping sauce on a platter.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-42b3df0b29872de0",
+      "name": "Chicken Breast",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-42b3df0b29872de0.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 375
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 131,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-grilled-chicken-with-vegetables-on-plate-36351896/",
+      "photoMatch": "Grilled chicken breast with vegetables, professional plated representation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b693aca014fce76a",
+      "name": "Chicken Cremy Pesto",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-b693aca014fce76a.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 399
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 132,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/cooked-food-on-ceramic-plate-4730661/",
+      "photoMatch": "Chicken with pesto pasta, representative serving; exact cafe recipe is unknown.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b4252c8f05400c6e",
+      "name": "Mashroom Cremy Pesto",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-b4252c8f05400c6e.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 449
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 133,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/pasta-on-a-plate-8917285/",
+      "photoMatch": "Pasta with mushrooms and pesto drizzle, representative creamy mushroom pesto preparation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d1951464072891db",
+      "name": "Chicken Thigh Roasted Salad",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-d1951464072891db.webp",
+      "diet": "nonveg",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 499
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 134,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/grilled-chicken-salad-with-fresh-vegetables-31233885/",
+      "photoMatch": "Plated grilled chicken salad; precise thigh cut is not identifiable, representative only.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-b3ef1a14a0b49d25",
+      "name": "Falafal Hummus",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-b3ef1a14a0b49d25.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 135,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-falafel-bowl-with-hummus-and-salad-39976633/",
+      "photoMatch": "Falafel bowl with hummus and greens, matching the dish components.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-e470bad2a5675022",
+      "name": "Mushroom Roasted Salad",
+      "category": "Heaven's Special Dish",
+      "description": "",
+      "image": "/images/items/hc-menu-e470bad2a5675022.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 249
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 136,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/mushroom-in-meal-20323432/",
+      "photoMatch": "Roasted/grilled mushrooms, tomato and herbs; representative mushroom salad preparation, exact cafe recipe may differ.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-639794e7fa66b198",
+      "name": "Pink Bowl",
+      "category": "Smoothy",
+      "description": "",
+      "image": "/images/items/hc-menu-639794e7fa66b198.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 350
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 137,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/a-bowl-of-strawberry-smoothie-on-a-wooden-chopping-board-7937017/",
+      "photoMatch": "Pink smoothie bowl with berries; close visual representation, not a claim about exact cafe ingredients.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-f16cd983d771daf2",
+      "name": "Yellow Bowl",
+      "category": "Smoothy",
+      "description": "",
+      "image": "/images/items/hc-menu-f16cd983d771daf2.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 350
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 138,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/healthy-mango-smoothie-bowl-with-granola-34122326/",
+      "photoMatch": "Yellow tropical smoothie bowl; close visual representation, not a claim about exact cafe ingredients.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-d2e8a7e464057ed9",
+      "name": "Custurd Caramel",
+      "category": "Dessert",
+      "description": "",
+      "image": "/images/items/hc-menu-d2e8a7e464057ed9.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 70
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 139,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-caramel-flan-dessert-with-garnish-30247016/",
+      "photoMatch": "Caramel custard flan, matching the menu dessert.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-51d448ca57d3f268",
+      "name": "Brownie with Icecream",
+      "category": "Dessert",
+      "description": "",
+      "image": "/images/items/hc-menu-51d448ca57d3f268.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 299
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 140,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/chocolate-brownie-with-ice-cream-and-syrup-13233563/",
+      "photoMatch": "Chocolate brownie topped with ice cream and syrup.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-ece371368d994e8d",
+      "name": "Hazelnut Choco Muse",
+      "category": "Dessert",
+      "description": "",
+      "image": "/images/items/hc-menu-ece371368d994e8d.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 199
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 141,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/delicious-chocolate-mousse-dessert-on-table-32080629/",
+      "photoMatch": "Chocolate mousse topped with nuts; representative hazelnut chocolate mousse presentation.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-a4790a7fb06ea6a1",
+      "name": "Oreo Fudge",
+      "category": "Dessert",
+      "description": "",
+      "image": "/images/items/hc-menu-a4790a7fb06ea6a1.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 329
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 142,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-of-chocolate-cakes-14564752/",
+      "photoMatch": "Chocolate fudge squares, representative fudge dessert; Oreo cookie filling is not visible.",
+      "photoPosition": "50% 50%"
+    },
+    {
+      "id": "hc-menu-562696ca2391cb1c",
+      "name": "Apple Scrumbal",
+      "category": "Dessert",
+      "description": "",
+      "image": "/images/items/hc-menu-562696ca2391cb1c.webp",
+      "diet": "unspecified",
+      "available": true,
+      "pricePending": false,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 350
+        }
+      ],
+      "addons": [],
+      "sourcePage": 9,
+      "sortOrder": 143,
+      "source": "The_HeavenCafe_Complete_Menu.pdf",
+      "artwork": false,
+      "photoSource": "https://www.pexels.com/photo/close-up-shot-of-a-slice-of-pie-on-a-plate-9588898/",
+      "photoMatch": "Apple crumble dessert slice on a plate.",
+      "photoPosition": "50% 50%"
+    }
+  ],
+  "categories": [
+    "Milk Based Tea",
+    "Non Milk Base Tea",
+    "Stuffed Garlic Bread",
+    "Burger",
+    "Grilled Sandwich",
+    "Bun Maska",
+    "Mojito",
+    "Lemonade",
+    "Non Alcoholic",
+    "Shake",
+    "Heaven's Detox",
+    "Cold Coffee",
+    "Wrap",
+    "Pasta",
+    "Veg Pizza",
+    "Chicken Pizza",
+    "Momos",
+    "Maggi",
+    "French Fries",
+    "Quick Bites",
+    "Combos",
+    "Extra Add Ons",
+    "Heaven's Special Dish",
+    "Smoothy",
+    "Dessert"
+  ],
+  "addons": [
+    {
+      "category": "Burger",
+      "page": 3,
+      "name": "Add Cheese Slice / Peri Peri",
+      "price": 40
+    },
+    {
+      "category": "Grilled Sandwich",
+      "page": 3,
+      "name": "Add Cheese Slice",
+      "price": 40
+    },
+    {
+      "category": "Shake",
+      "page": 5,
+      "name": "Add Ice Cream",
+      "price": 40
+    },
+    {
+      "category": "Cold Coffee",
+      "page": 5,
+      "name": "Add Ice Cream",
+      "price": 40
+    },
+    {
+      "category": "Pasta",
+      "page": 6,
+      "name": "Add Chicken",
+      "price": 50
+    },
+    {
+      "category": "Veg Pizza",
+      "page": 7,
+      "name": "Add Extra Cheese",
+      "price": 40
+    },
+    {
+      "category": "Maggi",
+      "page": 8,
+      "name": "Add Chicken",
+      "price": 60
+    }
+  ],
+  "sourceRows": [
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Local Tea",
+      "prices": [
+        30,
+        50
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "GTC Signature Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Ginger Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Kadak Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Burj Khalifa",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Paan Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Bombay Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Chocolate Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Rajwada Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Elaichi Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Kesar Elaichi Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Gur Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Rose Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Strawberry Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Milk Based Tea",
+      "name": "Masala Tea",
+      "prices": [
+        45,
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Non Milk Base Tea",
+      "name": "Green Tea",
+      "prices": [
+        50
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Non Milk Base Tea",
+      "name": "Ginger Honey Tea",
+      "prices": [
+        60
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 2,
+      "category": "Non Milk Base Tea",
+      "name": "Black Tea (Lemon)",
+      "prices": [
+        49
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Stuffed Garlic Bread",
+      "name": "Butter Stuffed Garlic Bread",
+      "prices": [
+        170
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Stuffed Garlic Bread",
+      "name": "Jalapeno and Corn",
+      "prices": [
+        185
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Stuffed Garlic Bread",
+      "name": "Chicken Stuffed Garlic Bread",
+      "prices": [
+        195
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Stuffed Garlic Bread",
+      "name": "BBQ Chicken Stuffed Garlic",
+      "prices": [
+        220
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Aloo Tikki Burger",
+      "prices": [
+        99
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Spicy Veg Burger",
+      "prices": [
+        120
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Crispy Veg Burger",
+      "prices": [
+        159
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Tandoori Paneer Burger",
+      "prices": [
+        179
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Grilled Chicken Burger",
+      "prices": [
+        190
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Spicy Chicken Burger",
+      "prices": [
+        170
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Burger",
+      "name": "Add Cheese Slice / Peri Peri",
+      "prices": [
+        40
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Veg Grilled Sandwich",
+      "prices": [
+        150
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Tandoori Paneer Grilled Sandwich",
+      "prices": [
+        179
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Spicy Veg Grilled Sandwich",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Chicken Grilled Sandwich",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Cheese Corn Sandwich",
+      "prices": [
+        179
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Masala Cheese Toast Sand.",
+      "prices": [
+        165
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Spicy Chicken Grilled Sandwich",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Makhni Chi. or Paneer",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 3,
+      "category": "Grilled Sandwich",
+      "name": "Add Cheese Slice",
+      "prices": [
+        40
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 4,
+      "category": "Bun Maska",
+      "name": "Butter Bun (Grilled Option)",
+      "prices": [
+        35
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Bun Maska",
+      "name": "Masala Bun",
+      "prices": [
+        40
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Bun Maska",
+      "name": "Chocolate Bun",
+      "prices": [
+        49
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Bun Maska",
+      "name": "Jam Bun",
+      "prices": [
+        49
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Bun Maska",
+      "name": "Croutons",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Classic Mojito",
+      "prices": [
+        150
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Peach Mojito",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Green Apple Mojito",
+      "prices": [
+        209
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Strawberry Mojito",
+      "prices": [
+        219
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Kiwi Mojito",
+      "prices": [
+        219
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Mojito",
+      "name": "Orange Mojito",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Lemonade",
+      "name": "Lime Lemonade",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Lemonade",
+      "name": "Peach Lemonade",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Lemonade",
+      "name": "Green Apple Lemonade",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Lemonade",
+      "name": "Orange Lemonade",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic Beer",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic Vodka",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic Whisky",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic Jack Daniels",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic Red Wine",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 4,
+      "category": "Non Alcoholic",
+      "name": "Non Alcoholic LIIT",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Strawberry Shake",
+      "prices": [
+        190
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Banana Shake",
+      "prices": [
+        120
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Vanilla Shake",
+      "prices": [
+        110
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Mango Shake",
+      "prices": [
+        170
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Butterscotch Shake",
+      "prices": [
+        180
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Brownie Shake",
+      "prices": [
+        190
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Choco Oreo Shake",
+      "prices": [
+        165
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Dubai Shake",
+      "prices": [
+        180
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Shake",
+      "name": "Add Ice Cream",
+      "prices": [
+        40
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 5,
+      "category": "Heaven's Detox",
+      "name": "Pink Detox",
+      "prices": [
+        259
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Heaven's Detox",
+      "name": "Purple",
+      "prices": [
+        239
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Heaven's Detox",
+      "name": "Green Detox",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Heaven's Detox",
+      "name": "Pink Cooler",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Classic Cold Coffee",
+      "prices": [
+        159
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Choco Strong Coffee",
+      "prices": [
+        239
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Hazelnut Cold Coffee",
+      "prices": [
+        270
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Caramel Cold Coffee",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Irish Cold Coffee",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 5,
+      "category": "Cold Coffee",
+      "name": "Add Ice Cream",
+      "prices": [
+        40
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "Veg Wrap (Noodle)",
+      "prices": [
+        120
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "Tandoori Paneer Wrap",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "Spicy Veg Wrap",
+      "prices": [
+        130
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "Grilled Chicken Wrap",
+      "prices": [
+        159
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "Tandoori Chicken Wrap",
+      "prices": [
+        170
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Wrap",
+      "name": "BBQ Chicken Wrap",
+      "prices": [
+        180
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Red Sauce Pasta",
+      "prices": [
+        259
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "White Sauce Pasta",
+      "prices": [
+        279
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Mushroom Pasta",
+      "prices": [
+        269
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Pesto Souse Pasta",
+      "prices": [
+        289
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Mac. & Cheese Pasta",
+      "prices": [
+        289
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Mix Sauce Pasta",
+      "prices": [
+        279
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 6,
+      "category": "Pasta",
+      "name": "Add Chicken",
+      "prices": [
+        50
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Single Topping Pizza",
+      "prices": [
+        210
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Classic Margherita Pizza",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Farm House",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Tandoori Paneer Pizza",
+      "prices": [
+        279
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Makhni Pizza (Veg or Non Veg)",
+      "prices": [
+        309
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Chilli Paneer Pizza",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "BBQ Veg Pizza",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Veg Pizza",
+      "name": "Add Extra Cheese",
+      "prices": [
+        40
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Tandoori Chicken Pizza",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Smoky Chicken Pizza",
+      "prices": [
+        320
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Peri Peri Chi. Pizza",
+      "prices": [
+        330
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Chi. Supreme",
+      "prices": [
+        349
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Chi. Sausage",
+      "prices": [
+        349
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 7,
+      "category": "Chicken Pizza",
+      "name": "Chic. Pepperoni",
+      "prices": [
+        359
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Momos",
+      "name": "Veg Steam Momo",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Momos",
+      "name": "Paneer Steam Momo",
+      "prices": [
+        170
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Momos",
+      "name": "Chicken Steam Momo",
+      "prices": [
+        190
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Momos",
+      "name": "Kurkure Coating",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Maggi",
+      "name": "Plain Maggi",
+      "prices": [
+        65
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Maggi",
+      "name": "Veg Maggi",
+      "prices": [
+        99
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Maggi",
+      "name": "Tandoori Paneer Maggi",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Maggi",
+      "name": "Sezwan Maggi",
+      "prices": [
+        129
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Maggi",
+      "name": "Add Chicken",
+      "prices": [
+        60
+      ],
+      "kind": "addon"
+    },
+    {
+      "page": 8,
+      "category": "French Fries",
+      "name": "Salted French Fries",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "French Fries",
+      "name": "Masala Fries",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "French Fries",
+      "name": "Peri Peri Fries",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "French Fries",
+      "name": "Cheese Loaded",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Hara Bhara Kabab (6 PCS)",
+      "prices": [
+        179
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Veg Spring Roll",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Chi. Popcorn",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Potato Shots",
+      "prices": [
+        149
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Chic. Kabab (Cheese 6 pcs)",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Potato Cheese Ball",
+      "prices": [
+        179
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Quick Bites",
+      "name": "Corn Cheese Ball (6 balls)",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Sandwich + Fries + Soft Drink",
+      "prices": [
+        210
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Any Burger + Fries + Soft Drink",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Any Small Pizza + Garlic Bread + Soft Drink",
+      "prices": [
+        289
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Momo + Fries + Mojito / Soft Drink",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Pasta + Garlic Bread + Iced Tea / Soft Drink",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Combos",
+      "name": "Wrap + Fries + Iced Tea / Soft Drink / Cold Coffee",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Extra Add Ons",
+      "name": "Dip",
+      "prices": [
+        40
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Extra Add Ons",
+      "name": "Vegetable",
+      "prices": [
+        40
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Extra Add Ons",
+      "name": "Water Bottle",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Extra Add Ons",
+      "name": "Soft Drink",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 8,
+      "category": "Extra Add Ons",
+      "name": "Energy Drink",
+      "prices": [
+        null
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Quesadilla (Mexican Dish)",
+      "prices": [
+        349
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Chicken Balls",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Chicken Breast",
+      "prices": [
+        375
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Chicken Cremy Pesto",
+      "prices": [
+        399
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Mashroom Cremy Pesto",
+      "prices": [
+        449
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Chicken Thigh Roasted Salad",
+      "prices": [
+        499
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Falafal Hummus",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Heaven's Special Dish",
+      "name": "Mushroom Roasted Salad",
+      "prices": [
+        249
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Smoothy",
+      "name": "Pink Bowl",
+      "prices": [
+        350
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Smoothy",
+      "name": "Yellow Bowl",
+      "prices": [
+        350
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Dessert",
+      "name": "Custurd Caramel",
+      "prices": [
+        70
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Dessert",
+      "name": "Brownie with Icecream",
+      "prices": [
+        299
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Dessert",
+      "name": "Hazelnut Choco Muse",
+      "prices": [
+        199
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Dessert",
+      "name": "Oreo Fudge",
+      "prices": [
+        329
+      ],
+      "kind": "item"
+    },
+    {
+      "page": 9,
+      "category": "Dessert",
+      "name": "Apple Scrumbal",
+      "prices": [
+        350
+      ],
+      "kind": "item"
+    }
+  ],
+  "pricePending": [
+    "Croutons",
+    "Lime Lemonade",
+    "Peach Lemonade",
+    "Green Apple Lemonade",
+    "Orange Lemonade",
+    "Non Alcoholic Beer",
+    "Non Alcoholic Vodka",
+    "Non Alcoholic Whisky",
+    "Non Alcoholic Jack Daniels",
+    "Non Alcoholic Red Wine",
+    "Non Alcoholic LIIT",
+    "Water Bottle",
+    "Soft Drink",
+    "Energy Drink"
+  ],
+  "notes": [
+    "Fourteen original rows have no price; no amounts were inferred.",
+    "Original names and spelling are preserved.",
+    "Menu artwork represents categories and may differ from individual servings.",
+    "Kurkure Coating pricing basis needs owner confirmation.",
+    "Combo component choices and pizza sizes require owner confirmation before ordering opens."
+  ],
+  "branding": {
+    "logo": "/images/heaven-cafe-logo-transparent.webp",
+    "hero": "/images/menu/hero-menu.webp",
+    "aboutImage": "/images/menu/sandwich.webp",
+    "menuPdf": "/menu/The_HeavenCafe_Complete_Menu.pdf"
+  }
+}
